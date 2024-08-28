@@ -24,8 +24,10 @@ Frontend Technologies: HTML5, CSS3, JavaScript
 Successfully developed and deployed a fully functional Recipe App that enables users to explore a wide range of recipes, filter them by ingredients or categories, and manage their favorite recipes. The app received positive feedback for its user-friendly interface and robust functionality.
 
 outputs:
-![Screenshot (27)](https://github.com/user-attachments/assets/a72798cf-fcea-4840-b494-6e87989e4014)
-![Screenshot (28)](https://github.com/user-attachments/assets/ddb193c1-995b-44d7-9ae7-21bb9e4d6ab6)
+![Screenshot (29)](https://github.com/user-attachments/assets/8a10b4a3-fc5d-47af-a3bf-0b4a11eeb22e)
+![Screenshot (30)](https://github.com/user-attachments/assets/a74d3a55-c1ea-4187-baa9-c41d75eb5b1c)
+![Screenshot (31)](https://github.com/user-attachments/assets/3bf2f478-558d-44c9-b278-9dd376273ff4)
+
 
 
 Skills Gained:
